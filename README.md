@@ -5,4 +5,4 @@
 🤖 Exploring the intersection of web tech, machine learning, and software engineering.
 🌱 Always learning, always improving.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starfall10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starfall10&theme=tokyonight&icons=true&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
