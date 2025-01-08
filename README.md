@@ -1,4 +1,4 @@
-### Greeetings!!!
+# 💫 Greeetingss!!!
 
 👨‍💻 Computer Science Undergrad at Queen Mary University of London <br/>
 🌏 International student passionate about solving problems and building scalable solutions <br/>
@@ -13,6 +13,9 @@
 # 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Starfall10&theme=tokyonight&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Starfall10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Starfall10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Starfall10&icon=0&color=0)](https://visitcount.itsvg.in)
